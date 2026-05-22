@@ -191,4 +191,4 @@ The Java simulation and the React visualizer implement the **exact same algorith
 
 ## Author
 
-**Md Abu Saeed**
+**Md Abu Saeed** && **Khairul ISlam Robi**
